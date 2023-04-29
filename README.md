@@ -18,7 +18,7 @@ To install the Metabridge SDK, follow these steps:
 1.  Clone the repository to your local machine:
 
 
-`git clone https://github.com/metabridge-dev/metabridge-sdk.git` 
+`import "https://github.com/MetaBridgeT/Bridge-SDK/blob/main/contracts/BridgeSdk.sol";` 
 
 2.  Install the dependencies:
 
