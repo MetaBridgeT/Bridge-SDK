@@ -1,6 +1,4 @@
 
-Sure, here's a more detailed README file for the Metabridge SDK GitHub project:
-
 # Metabridge SDK
 
 The Metabridge SDK is a cross-chain messaging SDK that allows contracts to communicate with each other on different blockchain networks. This SDK is built on top of the Ethereum blockchain and allows for seamless communication across different blockchain networks.
